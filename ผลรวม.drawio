@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-12-09T07:00:54.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.7" etag="lDbme4QjJVSCqKh6yzmY" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-09T07:08:36.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="HGcV6l6iVM49PfLGdTg4" version="22.1.7" type="github">
   <diagram name="Page-1" id="nw29hAhJe0gsJ7tNHZK8">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8BVpdNehEAl6KAuz26KA-6" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="330" y="90" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8BVpdNehEAl6KAuz26KA-7" value="Input Number_1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="302.5" y="180" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8BVpdNehEAl6KAuz26KA-8" value="Input Number_2" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="290" y="260" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8BVpdNehEAl6KAuz26KA-9" value="Sum = Number_1 + Number_2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="187.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8BVpdNehEAl6KAuz26KA-10" value="Sub = Number_1 - Number_2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="280" y="420" width="187.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8BVpdNehEAl6KAuz26KA-11" value="Mul = Number_1 * Number_2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="280" y="500" width="187.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8BVpdNehEAl6KAuz26KA-12" value="Div = Number_1 / Number_2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="280" y="580" width="187.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8BVpdNehEAl6KAuz26KA-13" value="Display Value&lt;br&gt;- บวก&lt;br&gt;-&amp;nbsp; &amp;nbsp;ลบ&lt;br&gt;- คูณ&lt;br&gt;- หาร" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="670" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8BVpdNehEAl6KAuz26KA-14" value="STOP" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="330" y="790" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
